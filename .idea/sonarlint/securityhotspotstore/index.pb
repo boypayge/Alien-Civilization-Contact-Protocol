@@ -11,3 +11,5 @@ P
  tests/message-decryption.test.ts,4/3/43128e20616b8150958c93fed3d8bf40cd7c8292
 S
 #contracts/response-formulation.clar,e/a/ea9fb82f505ad6d6cca598ec58c3803b650c78d8
+R
+"tests/response-formulation.test.ts,3/6/365973a50360e617adf6ea6355c6ce05cb4acc67

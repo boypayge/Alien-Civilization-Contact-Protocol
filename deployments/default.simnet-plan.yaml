@@ -55,6 +55,11 @@ plan:
             path: contracts/message-decryption.clar
             clarity-version: 2
         - emulated-contract-publish:
+            contract-name: response-formulation
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/response-formulation.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: signal-detection
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/signal-detection.clar
