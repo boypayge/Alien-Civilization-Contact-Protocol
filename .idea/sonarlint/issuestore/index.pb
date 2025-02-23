@@ -13,3 +13,5 @@ S
 #contracts/response-formulation.clar,e/a/ea9fb82f505ad6d6cca598ec58c3803b650c78d8
 R
 "tests/response-formulation.test.ts,3/6/365973a50360e617adf6ea6355c6ce05cb4acc67
+U
+%contracts/first-contact-scenario.clar,7/b/7bb13d51a6a8c5beb8b2b4784a6823b37d35c419
