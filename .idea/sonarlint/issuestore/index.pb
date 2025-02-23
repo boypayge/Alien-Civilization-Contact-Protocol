@@ -1,3 +1,19 @@
 
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+O
+contracts/signal-detection.clar,5/9/598d87c109b0f8b9abc05ea20e3c03dabb475fc8
+N
+tests/signal-detection.test.ts,1/9/196e2398476e66650d12db0bcbc817904023fbb4
+Q
+!contracts/message-decryption.clar,8/8/886929cb8e3935d0c692ada8523420fa983d641e
+P
+ tests/message-decryption.test.ts,4/3/43128e20616b8150958c93fed3d8bf40cd7c8292
+S
+#contracts/response-formulation.clar,e/a/ea9fb82f505ad6d6cca598ec58c3803b650c78d8
+R
+"tests/response-formulation.test.ts,3/6/365973a50360e617adf6ea6355c6ce05cb4acc67
+U
+%contracts/first-contact-scenario.clar,7/b/7bb13d51a6a8c5beb8b2b4784a6823b37d35c419
+T
+$tests/first-contact-scenario.test.ts,4/9/497ee3156a7d128f248f4ce6b78fe5fe5f2823da
