@@ -9,3 +9,5 @@ Q
 !contracts/message-decryption.clar,8/8/886929cb8e3935d0c692ada8523420fa983d641e
 P
  tests/message-decryption.test.ts,4/3/43128e20616b8150958c93fed3d8bf40cd7c8292
+S
+#contracts/response-formulation.clar,e/a/ea9fb82f505ad6d6cca598ec58c3803b650c78d8

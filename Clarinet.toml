@@ -10,6 +10,11 @@ path = 'contracts/message-decryption.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.response-formulation]
+path = 'contracts/response-formulation.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.signal-detection]
 path = 'contracts/signal-detection.clar'
 clarity_version = 2
